@@ -39,15 +39,19 @@ By taking a look at our [Screenshots](https://github.com/gxc-challenge-winter21/
 
 ## Further Information about the Team
 
-### Bettina Kernbichl 
+**Bettina Kernbichl**
 - Information Systems and Management Student at Hochschule München, Germany
-### Shabir Sediqi
+
+**Shabir Sediqi**
 - Information Systems and Management Student at Hochschule München, Germany
-### Quynh Chi Lai
+
+**Quynh Chi Lai**
 - Information Systems and Management Student at Hochschule München, Germany
-### Matthew Sy
+
+**Matthew Sy**
 - 'tbd'
-### Lukas Waldmann
+
+**Lukas Waldmann**
 - Information Systems and Management Student at Hochschule München, Germany
 
 ### Feel free to check out the [International Avengers Wiki](https://github.com/gxc-challenge-winter21/gxc-team-5/wiki) to get more information on our app and the challenge!
