@@ -25,7 +25,7 @@ The handling of [our app](https://github.com/gxc-challenge-winter21/gxc-team-5/w
 The App then displays a map with all near bike docks and shows whether they contain available bikes or not. If all bikes are booked already the user can't adress the dock as destination. 
 Within the app there is also the DB navigation integrated which allows the user to search for the best route including the folding bike system. Furthermore there is a mile system integrated so the users of folding bikes can collect points to get vouchers for selected stores or brands.
 
-By taking a look at our [Screenshots](https://github.com/gxc-challenge-winter21/gxc-team-5/tree/main/Screenshots) you can get a first impression of what the app looks like and what its main features are.
+By taking a look at our [Screenshots](https://github.com/gxc-challenge-winter21/gxc-team-5/tree/main/Screenshots) you can get a first impression of the app and its main features.
 <img src="https://github.com/gxc-challenge-winter21/gxc-team-5/blob/main/Screenshots/SearchRoute.JPG" align="left" width="200px"/>
 <img src="https://github.com/gxc-challenge-winter21/gxc-team-5/blob/main/Screenshots/MapAvailable.JPG" align="left" width="200px"/>
 <img src="https://github.com/gxc-challenge-winter21/gxc-team-5/blob/main/Screenshots/DockNr.JPG" align="left" width="200px"/>
