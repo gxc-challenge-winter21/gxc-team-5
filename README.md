@@ -50,7 +50,7 @@ By taking a look at our [Screenshots](https://github.com/gxc-challenge-winter21/
 - Information Systems and Management Student at Hochschule München, Germany
 
 [**Matthew Sy**](https://github.com/matthewsy4)
-- 'tbd'
+- Liberal Arts Engineering Studies at California Polytechnic State University, San Luis Obispo
 
 [**Lukas Waldmann**](https://github.com/waldman0)
 - Information Systems and Management Student at Hochschule München, Germany
